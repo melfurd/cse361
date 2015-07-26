@@ -21,11 +21,7 @@ public class HW03 {
 		System.out.println("End, it took "+ elapsedSeconds + " seconds.");
 		
 		
-		System.out.println("Start for binary 1 for n = 500 , k = 97");
-		startTimer();
-		bin1(500,97);
-		endTimer();
-		System.out.println("End, it took "+ elapsedSeconds + " seconds.");
+
 		System.out.println("Start for binary 2 for n = 500, k = 97");
 		startTimer();
 		bin2(500, 97);
